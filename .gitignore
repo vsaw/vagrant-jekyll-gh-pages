@@ -1,0 +1,8 @@
+# Jekyll Builds
+_site/
+.sass-cache/
+
+# Vagrant files
+.vagrant
+Gemfile.lock
+Gemfile

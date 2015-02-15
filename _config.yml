@@ -1,0 +1,18 @@
+# Site settings
+title: Jekyll in Vagrant
+author:
+    twitter: _vsaw
+    github: vsaw
+    bio: >
+        Set up Jekyll to locally test GitHub Pages within minutes. 
+
+# Build settings
+markdown: redcarpet
+
+# GitHub Page Settings
+highlighter: pygments
+safe: true
+lsi: false
+
+# Local Environment Cleanup
+exclude: ["Vagrantfile", "Vagrant", "Gemfile", "Gemfile.lock"]
