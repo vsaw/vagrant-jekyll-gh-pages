@@ -1,10 +1,13 @@
 # Site settings
-title: Jekyll in Vagrant
+title: Valentins Blog
 author:
     twitter: _vsaw
     github: vsaw
     bio: >
-        Set up Jekyll to locally test GitHub Pages within minutes. 
+      This is about hacking, technological advances and how to seize the
+      opportunity! All from an entrepreneurial angle and based on personal
+      experiences.
+    email_md5: 852b85aa04b05cb283891c04b7821a44
 
 # Build settings
 markdown: redcarpet

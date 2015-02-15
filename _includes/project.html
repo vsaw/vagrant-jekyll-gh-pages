@@ -1,0 +1,20 @@
+<div class="page-header">
+  <h1>
+      {{ site.github.project_title }}
+      {% if site.github.project_tagline %}
+        <small>{{ site.github.project_tagline }}</small>
+      {% endif %}
+  </h1>
+
+  <i class="fa fa-download"></i> Download this project as a
+  <ul>
+      <li>
+          <a class="zip_download_link" href="{{ site.github.zip_url }}">.zip file</a>
+      </li>
+      <li>
+          <a class="tar_download_link" href="{{ site.github.tar_url }}">.tar.gz file</a>
+      </li>
+  </ul>
+</div>
+
+{{ content }}
