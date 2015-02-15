@@ -1,6 +1,7 @@
 ---
 layout: project
 permalink: /index.html
+title: vagrant-jekyll-gh-pages
 ---
 
 This will bootstrap a small ubuntu server running [Jekyll](http://jekyllrb.com/) configured by the [guidelines of GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/).

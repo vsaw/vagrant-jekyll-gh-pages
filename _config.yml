@@ -1,5 +1,5 @@
 # Site settings
-title: Valentins Blog
+title: Valentins Sawadski
 author:
     twitter: _vsaw
     github: vsaw
@@ -8,6 +8,12 @@ author:
       opportunity! All from an entrepreneurial angle and based on personal
       experiences.
     email_md5: 852b85aa04b05cb283891c04b7821a44
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+about_path: about.html
+projects_path: projects.html
 
 # Build settings
 markdown: redcarpet
