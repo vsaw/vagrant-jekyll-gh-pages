@@ -20,10 +20,10 @@ Jekyll ist installed as a normal ubuntu service. You can control it directly usi
 
 ```bash
 # SSH into the vagrant container
-$vagrant ssh
+$ vagrant ssh
 
 # Control the service inside vagrant
-$sudo service jekyll (start|stop|restart|status)
+$ sudo service jekyll (start|stop|restart|status)
 ```
 
 # License
